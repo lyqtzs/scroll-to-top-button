@@ -1,6 +1,6 @@
 # 🚀 Scroll To Top Button – Make Webpage Navigation Effortless!
 
-🌐 切换语言：[English](README.md) | [简体中文](README.zh-CN.md)
+🌐 Switch Language：[English](README.md) | [简体中文](README.zh-CN.md)
 
 Tired of endlessly scrolling to get back to the top or bottom of a long webpage? Say goodbye to the hassle and try the **Scroll To Top Button** Chrome extension!  
 This lightweight, user-friendly tool helps you instantly scroll to the top or bottom of any webpage using floating buttons or handy keyboard shortcuts.
